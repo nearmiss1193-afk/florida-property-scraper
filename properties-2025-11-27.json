@@ -1,0 +1,4052 @@
+[
+  {
+    "propertyId": "ZPID31080729",
+    "mlsId": "MLS223950",
+    "streetAddress": "9667 Lake View Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33192",
+    "latitude": "28.589086",
+    "longitude": "-80.989110",
+    "price": 663000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 2636,
+    "lotSize": 13079,
+    "yearBuilt": 2009,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 55,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 1 bathroom single family in Orlando. This stunning property features 2636 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 682319,
+    "rentZestimate": 3978,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 663000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 696150,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 563550,
+        "tax": 7956
+      },
+      {
+        "year": 2023,
+        "value": 543660,
+        "tax": 7293
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 1.5974372180575203,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 7,
+        "distance": 1.8784461694465837,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 4.167461058880244,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID37685865",
+    "mlsId": "MLS832199",
+    "streetAddress": "7108 Maple Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33476",
+    "latitude": "28.713977",
+    "longitude": "-81.269192",
+    "price": 621000,
+    "bedrooms": 5,
+    "bathrooms": 2.5,
+    "sqft": 3116,
+    "lotSize": 6232,
+    "yearBuilt": 2007,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 47,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 2.5 bathroom single family in Orlando. This stunning property features 3116 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 627309,
+    "rentZestimate": 3726,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 621000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 652050,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 527850,
+        "tax": 7452
+      },
+      {
+        "year": 2023,
+        "value": 509219,
+        "tax": 6831
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.0678330539128131,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 7,
+        "distance": 2.9034859942252433,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 5.66112140901185,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID12876594",
+    "mlsId": "MLS603643",
+    "streetAddress": "4386 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33076",
+    "latitude": "28.510128",
+    "longitude": "-81.344826",
+    "price": 523000,
+    "bedrooms": 5,
+    "bathrooms": 1.5,
+    "sqft": 2119,
+    "lotSize": 5347,
+    "yearBuilt": 1997,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 75,
+    "hoaFee": 295,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 1.5 bathroom townhouse in Orlando. This stunning property features 2119 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 538117,
+    "rentZestimate": 3138,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 523000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 549150,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 444550,
+        "tax": 6276
+      },
+      {
+        "year": 2023,
+        "value": 428860,
+        "tax": 5753
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 0.5459772853322611,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 7,
+        "distance": 2.778442610691871,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 5.2767006971681525,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID3828026",
+    "mlsId": "MLS758952",
+    "streetAddress": "5269 Sunset Way",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33594",
+    "latitude": "28.569474",
+    "longitude": "-81.215708",
+    "price": 763000,
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "sqft": 2585,
+    "lotSize": 10666,
+    "yearBuilt": 2003,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 83,
+    "hoaFee": 342,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 3.5 bathroom townhouse in Orlando. This stunning property features 2585 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 799347,
+    "rentZestimate": 4578,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 763000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 801150,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 648550,
+        "tax": 9156
+      },
+      {
+        "year": 2023,
+        "value": 625660,
+        "tax": 8393
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 2.158436687328895,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.878156818346125,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 3.1845735959518118,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID66502113",
+    "mlsId": "MLS399648",
+    "streetAddress": "9036 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33399",
+    "latitude": "28.519613",
+    "longitude": "-81.364173",
+    "price": 316000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 2008,
+    "lotSize": 5687,
+    "yearBuilt": 2012,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 34,
+    "hoaFee": 155,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 2 bathroom townhouse in Orlando. This stunning property features 2008 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 323179,
+    "rentZestimate": 1896,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 316000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 331800,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 268600,
+        "tax": 3792
+      },
+      {
+        "year": 2023,
+        "value": 259119,
+        "tax": 3476
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.0217748928593182,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 1.7452000180526372,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 2.319524844476965,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID98809567",
+    "mlsId": "MLS126875",
+    "streetAddress": "1499 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33307",
+    "latitude": "28.570259",
+    "longitude": "-81.059897",
+    "price": 457000,
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "sqft": 1971,
+    "lotSize": 5144,
+    "yearBuilt": 1993,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 5,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 3.5 bathroom multi-family in Orlando. This stunning property features 1971 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 455234,
+    "rentZestimate": 2742,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 457000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 479850,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 388450,
+        "tax": 5484
+      },
+      {
+        "year": 2023,
+        "value": 374740,
+        "tax": 5027
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 2.337133661229806,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 3.9447295731699996,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 2.135601482826516,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID38111011",
+    "mlsId": "MLS171431",
+    "streetAddress": "9204 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33194",
+    "latitude": "28.707809",
+    "longitude": "-81.340342",
+    "price": 669000,
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "sqft": 2870,
+    "lotSize": 8924,
+    "yearBuilt": 1996,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 5,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 1.5 bathroom single family in Orlando. This stunning property features 2870 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 646472,
+    "rentZestimate": 4014,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 669000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 702450,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 568650,
+        "tax": 8028
+      },
+      {
+        "year": 2023,
+        "value": 548580,
+        "tax": 7359
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 0.7411742341801077,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 3.5427447982753186,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 3.7125640351196694,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID19316136",
+    "mlsId": "MLS501503",
+    "streetAddress": "9575 Beach Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32771",
+    "latitude": "28.839500",
+    "longitude": "-81.130415",
+    "price": 283000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "sqft": 1031,
+    "lotSize": 2414,
+    "yearBuilt": 1996,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 89,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 2.5 bathroom townhouse in Orlando. This stunning property features 1031 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 282767,
+    "rentZestimate": 1698,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 283000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 297150,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 240550,
+        "tax": 3396
+      },
+      {
+        "year": 2023,
+        "value": 232060,
+        "tax": 3113
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 0.8622310610358128,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 3.429871713368369,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 5.603050248724053,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID84805833",
+    "mlsId": "MLS905238",
+    "streetAddress": "5379 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33191",
+    "latitude": "28.785515",
+    "longitude": "-81.314164",
+    "price": 898000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "sqft": 3141,
+    "lotSize": 10755,
+    "yearBuilt": 2007,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 34,
+    "hoaFee": 220,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 3 bathroom condo in Orlando. This stunning property features 3141 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 878972,
+    "rentZestimate": 5388,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 898000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 942900,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 763300,
+        "tax": 10776
+      },
+      {
+        "year": 2023,
+        "value": 736360,
+        "tax": 9878
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 0.5677402597132648,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.700692700915539,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 3.251611020027428,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID73453655",
+    "mlsId": "MLS965408",
+    "streetAddress": "4923 Oak Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32772",
+    "latitude": "28.512771",
+    "longitude": "-81.398613",
+    "price": 230000,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "sqft": 1384,
+    "lotSize": 6820,
+    "yearBuilt": 2020,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 87,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 2 bathroom condo in Orlando. This stunning property features 1384 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 230734,
+    "rentZestimate": 1380,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 230000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 241500,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 195500,
+        "tax": 2760
+      },
+      {
+        "year": 2023,
+        "value": 188600,
+        "tax": 2530
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 0.8798182675632242,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 3.015247059929167,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 3.5965744479810606,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID58310426",
+    "mlsId": "MLS355368",
+    "streetAddress": "2484 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33578",
+    "latitude": "28.952537",
+    "longitude": "-81.294718",
+    "price": 346000,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 1182,
+    "lotSize": 2562,
+    "yearBuilt": 2009,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 58,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 3.5 bathroom multi-family in Orlando. This stunning property features 1182 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 348391,
+    "rentZestimate": 2076,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 346000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 363300,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 294100,
+        "tax": 4152
+      },
+      {
+        "year": 2023,
+        "value": 283720,
+        "tax": 3806
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 2.062991225078853,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 3.6776237038338233,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 4.209479940288437,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.734Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID52059889",
+    "mlsId": "MLS11827",
+    "streetAddress": "5926 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33060",
+    "latitude": "28.716005",
+    "longitude": "-81.058985",
+    "price": 296000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "sqft": 1355,
+    "lotSize": 6295,
+    "yearBuilt": 2012,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 53,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 4 bedroom, 3.5 bathroom condo in Orlando. This stunning property features 1355 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 297118,
+    "rentZestimate": 1776,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 296000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 310800,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 251600,
+        "tax": 3552
+      },
+      {
+        "year": 2023,
+        "value": 242720,
+        "tax": 3256
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.455225834563464,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 1.9727008329177995,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 3.859173842692825,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID64051641",
+    "mlsId": "MLS371450",
+    "streetAddress": "5732 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32889",
+    "latitude": "28.577761",
+    "longitude": "-81.375007",
+    "price": 479000,
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "sqft": 1987,
+    "lotSize": 7902,
+    "yearBuilt": 2015,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 47,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 2.5 bathroom condo in Orlando. This stunning property features 1987 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 483804,
+    "rentZestimate": 2874,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 479000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 502950,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 407150,
+        "tax": 5748
+      },
+      {
+        "year": 2023,
+        "value": 392780,
+        "tax": 5269
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 1.8255407977971885,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 1.5541984710959715,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 2.787481989336488,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID42426840",
+    "mlsId": "MLS796861",
+    "streetAddress": "6349 Lake View Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32896",
+    "latitude": "28.720309",
+    "longitude": "-81.393088",
+    "price": 347000,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "sqft": 1238,
+    "lotSize": 3363,
+    "yearBuilt": 2007,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 53,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 1 bathroom multi-family in Orlando. This stunning property features 1238 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 336373,
+    "rentZestimate": 2082,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 347000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 364350,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 294950,
+        "tax": 4164
+      },
+      {
+        "year": 2023,
+        "value": 284540,
+        "tax": 3817
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.0787365780510672,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 1.3301114352237995,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 3.6092806639684856,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID35608824",
+    "mlsId": "MLS693154",
+    "streetAddress": "3895 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33488",
+    "latitude": "28.589713",
+    "longitude": "-81.252052",
+    "price": 492000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 3258,
+    "lotSize": 13716,
+    "yearBuilt": 1988,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 29,
+    "hoaFee": 316,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 2 bathroom condo in Orlando. This stunning property features 3258 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 498714,
+    "rentZestimate": 2952,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 492000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 516600,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 418200,
+        "tax": 5904
+      },
+      {
+        "year": 2023,
+        "value": 403440,
+        "tax": 5412
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.1004239218960925,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 1.3085011335319416,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 4.625906921613023,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID84230476",
+    "mlsId": "MLS979503",
+    "streetAddress": "5262 Lake View Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32888",
+    "latitude": "28.830519",
+    "longitude": "-81.292751",
+    "price": 600000,
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "sqft": 2437,
+    "lotSize": 7684,
+    "yearBuilt": 1999,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 35,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 3.5 bathroom townhouse in Orlando. This stunning property features 2437 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 617145,
+    "rentZestimate": 3600,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 600000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 630000,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 510000,
+        "tax": 7200
+      },
+      {
+        "year": 2023,
+        "value": 491999,
+        "tax": 6600
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.448569961797979,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.4351351040832707,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 4.574854861012252,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID78348992",
+    "mlsId": "MLS349932",
+    "streetAddress": "4608 Maple Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32780",
+    "latitude": "28.612423",
+    "longitude": "-81.337937",
+    "price": 418000,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "sqft": 2615,
+    "lotSize": 8586,
+    "yearBuilt": 1990,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 81,
+    "hoaFee": 104,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 4 bedroom, 1 bathroom townhouse in Orlando. This stunning property features 2615 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 398037,
+    "rentZestimate": 2508,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 418000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 438900,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 355300,
+        "tax": 5016
+      },
+      {
+        "year": 2023,
+        "value": 342760,
+        "tax": 4598
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.9643773642419617,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.447446527510841,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 5.881475367163689,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID41643938",
+    "mlsId": "MLS894087",
+    "streetAddress": "6632 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32850",
+    "latitude": "28.557365",
+    "longitude": "-81.157285",
+    "price": 228000,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "sqft": 1468,
+    "lotSize": 4223,
+    "yearBuilt": 2019,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 76,
+    "hoaFee": 109,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 4 bedroom, 1 bathroom townhouse in Orlando. This stunning property features 1468 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 224271,
+    "rentZestimate": 1368,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 228000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 239400,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 193800,
+        "tax": 2736
+      },
+      {
+        "year": 2023,
+        "value": 186960,
+        "tax": 2508
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 2.4953516801359625,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 2.8075560215141993,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 4.842197880578666,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID61091716",
+    "mlsId": "MLS9573",
+    "streetAddress": "5370 Lake View Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33296",
+    "latitude": "28.701915",
+    "longitude": "-81.303629",
+    "price": 393000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1524,
+    "lotSize": 3169,
+    "yearBuilt": 1992,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 15,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 2 bathroom single family in Orlando. This stunning property features 1524 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 399624,
+    "rentZestimate": 2358,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 393000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 412650,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 334050,
+        "tax": 4716
+      },
+      {
+        "year": 2023,
+        "value": 322260,
+        "tax": 4323
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 2.1142663227583958,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 1.4203790124244402,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 5.264982305856795,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID77253288",
+    "mlsId": "MLS927291",
+    "streetAddress": "6590 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33629",
+    "latitude": "28.724373",
+    "longitude": "-80.921922",
+    "price": 344000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "sqft": 2063,
+    "lotSize": 6242,
+    "yearBuilt": 2010,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 78,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 2.5 bathroom townhouse in Orlando. This stunning property features 2063 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 327531,
+    "rentZestimate": 2064,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 344000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 361200,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 292400,
+        "tax": 4128
+      },
+      {
+        "year": 2023,
+        "value": 282080,
+        "tax": 3784
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.0767483161093199,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 1.036488511871682,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 3.5492202726913886,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID95063662",
+    "mlsId": "MLS846989",
+    "streetAddress": "6110 Beach Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32829",
+    "latitude": "28.823477",
+    "longitude": "-81.092795",
+    "price": 729000,
+    "bedrooms": 4,
+    "bathrooms": 1.5,
+    "sqft": 2910,
+    "lotSize": 10450,
+    "yearBuilt": 1994,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 88,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 4 bedroom, 1.5 bathroom condo in Orlando. This stunning property features 2910 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 719063,
+    "rentZestimate": 4374,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 729000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 765450,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 619650,
+        "tax": 8748
+      },
+      {
+        "year": 2023,
+        "value": 597780,
+        "tax": 8018
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 2.4625617075009476,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 1.9183506599190299,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 3.1143483870256743,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID2452003",
+    "mlsId": "MLS684453",
+    "streetAddress": "6347 Beach Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33585",
+    "latitude": "28.790369",
+    "longitude": "-80.963840",
+    "price": 590000,
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "sqft": 2123,
+    "lotSize": 10481,
+    "yearBuilt": 2014,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 36,
+    "hoaFee": 200,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 2.5 bathroom single family in Orlando. This stunning property features 2123 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 612100,
+    "rentZestimate": 3540,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 590000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 619500,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 501500,
+        "tax": 7080
+      },
+      {
+        "year": 2023,
+        "value": 483800,
+        "tax": 6490
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.7471922028996119,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 2.1388056798115476,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 3.3119906485194006,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID40655752",
+    "mlsId": "MLS778421",
+    "streetAddress": "9434 Sunset Way",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33071",
+    "latitude": "28.637927",
+    "longitude": "-80.913327",
+    "price": 948000,
+    "bedrooms": 5,
+    "bathrooms": 1.5,
+    "sqft": 3194,
+    "lotSize": 9141,
+    "yearBuilt": 2009,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 12,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 1.5 bathroom single family in Orlando. This stunning property features 3194 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 908439,
+    "rentZestimate": 5688,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 948000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 995400,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 805800,
+        "tax": 11376
+      },
+      {
+        "year": 2023,
+        "value": 777360,
+        "tax": 10428
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 1.3447076230462365,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 3.60290886311227,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 4.324346184576193,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID39249545",
+    "mlsId": "MLS801661",
+    "streetAddress": "1182 Lake View Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33050",
+    "latitude": "28.522551",
+    "longitude": "-80.903472",
+    "price": 441000,
+    "bedrooms": 3,
+    "bathrooms": 1.5,
+    "sqft": 1899,
+    "lotSize": 4682,
+    "yearBuilt": 1994,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 74,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 1.5 bathroom townhouse in Orlando. This stunning property features 1899 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 437269,
+    "rentZestimate": 2646,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 441000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 463050,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 374850,
+        "tax": 5292
+      },
+      {
+        "year": 2023,
+        "value": 361620,
+        "tax": 4851
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 2.155352476274096,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 2.51182424204364,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 3.248767049679813,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID97309868",
+    "mlsId": "MLS197245",
+    "streetAddress": "8425 Beach Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33671",
+    "latitude": "28.650737",
+    "longitude": "-81.212980",
+    "price": 589000,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "sqft": 3255,
+    "lotSize": 9983,
+    "yearBuilt": 1980,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 12,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 1 bathroom multi-family in Orlando. This stunning property features 3255 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 599961,
+    "rentZestimate": 3534,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 589000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 618450,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 500650,
+        "tax": 7068
+      },
+      {
+        "year": 2023,
+        "value": 482980,
+        "tax": 6479
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 1.0657951810149608,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 2.0096386166321354,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 4.256105829914135,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID11757951",
+    "mlsId": "MLS151566",
+    "streetAddress": "2006 Maple Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32952",
+    "latitude": "28.695768",
+    "longitude": "-81.192456",
+    "price": 273000,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "sqft": 1764,
+    "lotSize": 6870,
+    "yearBuilt": 1995,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 14,
+    "hoaFee": 108,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 1 bathroom townhouse in Orlando. This stunning property features 1764 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 263864,
+    "rentZestimate": 1638,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 273000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 286650,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 232050,
+        "tax": 3276
+      },
+      {
+        "year": 2023,
+        "value": 223860,
+        "tax": 3003
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 0.6361120389214578,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 3.0471009396277635,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 5.419200127672775,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID34710228",
+    "mlsId": "MLS126567",
+    "streetAddress": "8600 Maple Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33684",
+    "latitude": "28.822030",
+    "longitude": "-81.016274",
+    "price": 351000,
+    "bedrooms": 3,
+    "bathrooms": 3.5,
+    "sqft": 1557,
+    "lotSize": 6210,
+    "yearBuilt": 1999,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 64,
+    "hoaFee": 336,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 3.5 bathroom condo in Orlando. This stunning property features 1557 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 356353,
+    "rentZestimate": 2106,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 351000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 368550,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 298350,
+        "tax": 4212
+      },
+      {
+        "year": 2023,
+        "value": 287820,
+        "tax": 3861
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 2.2984668636489136,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 1.54797471346618,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 4.30685200743107,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID98948114",
+    "mlsId": "MLS613775",
+    "streetAddress": "4233 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33372",
+    "latitude": "28.727398",
+    "longitude": "-81.139725",
+    "price": 434000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1914,
+    "lotSize": 7594,
+    "yearBuilt": 1988,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 42,
+    "hoaFee": 191,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 3 bedroom, 2 bathroom condo in Orlando. This stunning property features 1914 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 444331,
+    "rentZestimate": 2604,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 434000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 455700,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 368900,
+        "tax": 5208
+      },
+      {
+        "year": 2023,
+        "value": 355880,
+        "tax": 4774
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.7139784056145242,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 1.6269737503488308,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 4.550140756371245,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID96400548",
+    "mlsId": "MLS623409",
+    "streetAddress": "5408 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32886",
+    "latitude": "28.967849",
+    "longitude": "-81.153406",
+    "price": 404000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "sqft": 2346,
+    "lotSize": 8837,
+    "yearBuilt": 1990,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 65,
+    "hoaFee": 296,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 3 bathroom multi-family in Orlando. This stunning property features 2346 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 393622,
+    "rentZestimate": 2424,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 404000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 424200,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 343400,
+        "tax": 4848
+      },
+      {
+        "year": 2023,
+        "value": 331280,
+        "tax": 4444
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 2.129340282419594,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 1.8377434767448506,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 3.385988087520605,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID44067654",
+    "mlsId": "MLS687070",
+    "streetAddress": "8482 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33266",
+    "latitude": "28.997643",
+    "longitude": "-81.233662",
+    "price": 471000,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "sqft": 1838,
+    "lotSize": 5273,
+    "yearBuilt": 2018,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 20,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 1.5 bathroom single family in Orlando. This stunning property features 1838 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 454708,
+    "rentZestimate": 2826,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 471000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 494550,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 400350,
+        "tax": 5652
+      },
+      {
+        "year": 2023,
+        "value": 386220,
+        "tax": 5181
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 0.6045830464357413,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 7,
+        "distance": 2.357102321923539,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 3.615195870169895,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID34289344",
+    "mlsId": "MLS886532",
+    "streetAddress": "4812 Maple Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32749",
+    "latitude": "28.696993",
+    "longitude": "-81.211448",
+    "price": 179000,
+    "bedrooms": 2,
+    "bathrooms": 3.5,
+    "sqft": 1185,
+    "lotSize": 4835,
+    "yearBuilt": 1981,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 35,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 3.5 bathroom multi-family in Orlando. This stunning property features 1185 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 174680,
+    "rentZestimate": 1074,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 179000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 187950,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 152150,
+        "tax": 2148
+      },
+      {
+        "year": 2023,
+        "value": 146780,
+        "tax": 1968
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.2041119411174335,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.0218474344753274,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 5.8651811619383265,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID90759777",
+    "mlsId": "MLS33678",
+    "streetAddress": "2802 Lake View Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33227",
+    "latitude": "28.721062",
+    "longitude": "-80.993397",
+    "price": 366000,
+    "bedrooms": 2,
+    "bathrooms": 3.5,
+    "sqft": 1370,
+    "lotSize": 5992,
+    "yearBuilt": 1980,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 76,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 3.5 bathroom condo in Orlando. This stunning property features 1370 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 361193,
+    "rentZestimate": 2196,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 366000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 384300,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 311100,
+        "tax": 4392
+      },
+      {
+        "year": 2023,
+        "value": 300120,
+        "tax": 4025
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.54428974769767,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 1.1518235024224115,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 2.193955805091205,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID447861",
+    "mlsId": "MLS198226",
+    "streetAddress": "8721 Palm Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33470",
+    "latitude": "28.850569",
+    "longitude": "-80.923012",
+    "price": 833000,
+    "bedrooms": 5,
+    "bathrooms": 2.5,
+    "sqft": 3006,
+    "lotSize": 11409,
+    "yearBuilt": 1989,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 82,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 2.5 bathroom multi-family in Orlando. This stunning property features 3006 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 803083,
+    "rentZestimate": 4998,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 833000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 874650,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 708050,
+        "tax": 9996
+      },
+      {
+        "year": 2023,
+        "value": 683060,
+        "tax": 9163
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 2.198416639315235,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 1.596032994146444,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 5.936568812900069,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID48560274",
+    "mlsId": "MLS385157",
+    "streetAddress": "2218 Lake View Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32883",
+    "latitude": "28.692759",
+    "longitude": "-80.936001",
+    "price": 283000,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "sqft": 1866,
+    "lotSize": 9314,
+    "yearBuilt": 1999,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 25,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 1.5 bathroom townhouse in Orlando. This stunning property features 1866 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 296644,
+    "rentZestimate": 1698,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 283000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 297150,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 240550,
+        "tax": 3396
+      },
+      {
+        "year": 2023,
+        "value": 232060,
+        "tax": 3113
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 0.8157549096021999,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 3.0683135019942878,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 5.68907265812981,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID58431679",
+    "mlsId": "MLS382978",
+    "streetAddress": "6279 Oak Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33697",
+    "latitude": "28.561697",
+    "longitude": "-81.058290",
+    "price": 369000,
+    "bedrooms": 2,
+    "bathrooms": 2.5,
+    "sqft": 1528,
+    "lotSize": 7504,
+    "yearBuilt": 2001,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 67,
+    "hoaFee": 346,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 2.5 bathroom multi-family in Orlando. This stunning property features 1528 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for first-time buyers or investors.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 380235,
+    "rentZestimate": 2214,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 369000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 387450,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 313650,
+        "tax": 4428
+      },
+      {
+        "year": 2023,
+        "value": 302580,
+        "tax": 4058
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 2.2358951072654873,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.719351513415755,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 2.4135946452502237,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID74723779",
+    "mlsId": "MLS741359",
+    "streetAddress": "7436 Palm Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33466",
+    "latitude": "28.915241",
+    "longitude": "-81.224778",
+    "price": 438000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "sqft": 1959,
+    "lotSize": 9649,
+    "yearBuilt": 1998,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 27,
+    "hoaFee": 225,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 3 bathroom condo in Orlando. This stunning property features 1959 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 422715,
+    "rentZestimate": 2628,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 438000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 459900,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 372300,
+        "tax": 5256
+      },
+      {
+        "year": 2023,
+        "value": 359160,
+        "tax": 4818
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 2.1788565090329985,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 3.3260959063920557,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 5.592077216253319,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID80460378",
+    "mlsId": "MLS576432",
+    "streetAddress": "401 Maple Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32909",
+    "latitude": "28.687138",
+    "longitude": "-81.130890",
+    "price": 766000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 3320,
+    "lotSize": 13097,
+    "yearBuilt": 2012,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 43,
+    "hoaFee": 55,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 1 bathroom multi-family in Orlando. This stunning property features 3320 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 757414,
+    "rentZestimate": 4596,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 766000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 804300,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 651100,
+        "tax": 9192
+      },
+      {
+        "year": 2023,
+        "value": 628120,
+        "tax": 8426
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 0.7586022571229591,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 7,
+        "distance": 3.9635683168462554,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 5.055451667810087,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID13171004",
+    "mlsId": "MLS413098",
+    "streetAddress": "4277 Lake View Blvd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33223",
+    "latitude": "28.641007",
+    "longitude": "-81.250064",
+    "price": 454000,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "sqft": 2620,
+    "lotSize": 10166,
+    "yearBuilt": 1988,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 10,
+    "hoaFee": 136,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 4 bedroom, 1 bathroom townhouse in Orlando. This stunning property features 2620 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 457196,
+    "rentZestimate": 2724,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 454000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 476700,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 385900,
+        "tax": 5448
+      },
+      {
+        "year": 2023,
+        "value": 372280,
+        "tax": 4994
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 2.0380977145374746,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 3.6398384166023137,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 3.5191348548704973,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID35720963",
+    "mlsId": "MLS760769",
+    "streetAddress": "3327 Maple Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33273",
+    "latitude": "28.967472",
+    "longitude": "-81.334367",
+    "price": 523000,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "sqft": 3177,
+    "lotSize": 7722,
+    "yearBuilt": 2001,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 38,
+    "hoaFee": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 2 bathroom multi-family in Orlando. This stunning property features 3177 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 523342,
+    "rentZestimate": 3138,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 523000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 549150,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 444550,
+        "tax": 6276
+      },
+      {
+        "year": 2023,
+        "value": 428860,
+        "tax": 5753
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.2900165557676666,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 1.7033517193993837,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 2.2078916581007793,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID8022022",
+    "mlsId": "MLS716799",
+    "streetAddress": "5946 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33051",
+    "latitude": "28.832235",
+    "longitude": "-81.273132",
+    "price": 753000,
+    "bedrooms": 5,
+    "bathrooms": 3.5,
+    "sqft": 2771,
+    "lotSize": 8580,
+    "yearBuilt": 1990,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 6,
+    "hoaFee": 164,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 3.5 bathroom condo in Orlando. This stunning property features 2771 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 724094,
+    "rentZestimate": 4518,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 753000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 790650,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 640050,
+        "tax": 9036
+      },
+      {
+        "year": 2023,
+        "value": 617460,
+        "tax": 8283
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 1.8393348183148417,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 7,
+        "distance": 2.8820046377256787,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 3.595076016069936,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID24902634",
+    "mlsId": "MLS794900",
+    "streetAddress": "8108 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33389",
+    "latitude": "28.613216",
+    "longitude": "-81.189750",
+    "price": 538000,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "sqft": 3018,
+    "lotSize": 9804,
+    "yearBuilt": 1986,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 18,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 2 bathroom single family in Orlando. This stunning property features 3018 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 558374,
+    "rentZestimate": 3228,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 538000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 564900,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 457300,
+        "tax": 6456
+      },
+      {
+        "year": 2023,
+        "value": 441160,
+        "tax": 5918
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 0.7070487342886631,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.280447745547183,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 4.697115159725894,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID99866919",
+    "mlsId": "MLS690930",
+    "streetAddress": "2113 Sunset Way",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33298",
+    "latitude": "28.880978",
+    "longitude": "-81.026554",
+    "price": 672000,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "sqft": 2632,
+    "lotSize": 11335,
+    "yearBuilt": 2010,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 36,
+    "hoaFee": 334,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 4 bedroom, 1 bathroom condo in Orlando. This stunning property features 2632 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Recently renovated with new appliances and flooring. Perfect for large families.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 650472,
+    "rentZestimate": 4032,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 672000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 705600,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 571200,
+        "tax": 8064
+      },
+      {
+        "year": 2023,
+        "value": 551040,
+        "tax": 7392
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 1.445726009730628,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 6,
+        "distance": 2.8072438037088334,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 2.992392255371107,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID10084272",
+    "mlsId": "MLS314374",
+    "streetAddress": "5671 Oak Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33522",
+    "latitude": "28.789325",
+    "longitude": "-81.384473",
+    "price": 207000,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "sqft": 1066,
+    "lotSize": 4466,
+    "yearBuilt": 1982,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 79,
+    "hoaFee": 153,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 4 bedroom, 1 bathroom single family in Orlando. This stunning property features 1066 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 216047,
+    "rentZestimate": 1242,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 207000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 217350,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 175950,
+        "tax": 2484
+      },
+      {
+        "year": 2023,
+        "value": 169740,
+        "tax": 2277
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 0.5994438246743696,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 1.4768298316846873,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 2.6639660856799283,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID27806863",
+    "mlsId": "MLS896703",
+    "streetAddress": "5590 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32786",
+    "latitude": "28.974810",
+    "longitude": "-81.375872",
+    "price": 431000,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "sqft": 1444,
+    "lotSize": 4310,
+    "yearBuilt": 2000,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 79,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 1 bathroom single family in Orlando. This stunning property features 1444 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 428972,
+    "rentZestimate": 2586,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 431000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 452550,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 366350,
+        "tax": 5172
+      },
+      {
+        "year": 2023,
+        "value": 353420,
+        "tax": 4741
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 7,
+        "distance": 2.4572734469563353,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.951072533702696,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 3.2623989811249006,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID33349142",
+    "mlsId": "MLS591748",
+    "streetAddress": "3375 Main St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33507",
+    "latitude": "28.675204",
+    "longitude": "-80.966154",
+    "price": 190000,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "sqft": 1010,
+    "lotSize": 3560,
+    "yearBuilt": 2009,
+    "propertyType": "Single Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 18,
+    "hoaFee": 93,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 1.5 bathroom condo in Orlando. This stunning property features 1010 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 194878,
+    "rentZestimate": 1140,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 190000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 199500,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 161500,
+        "tax": 2280
+      },
+      {
+        "year": 2023,
+        "value": 155800,
+        "tax": 2090
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 2.300737346514391,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 1.589836718139318,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 2.5575455329046486,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID96483404",
+    "mlsId": "MLS93586",
+    "streetAddress": "6975 Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33431",
+    "latitude": "28.676701",
+    "longitude": "-81.106542",
+    "price": 716000,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "sqft": 3284,
+    "lotSize": 7369,
+    "yearBuilt": 2013,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 77,
+    "hoaFee": 348,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 2 bathroom townhouse in Orlando. This stunning property features 3284 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 700705,
+    "rentZestimate": 4296,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 716000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 751800,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 608600,
+        "tax": 8592
+      },
+      {
+        "year": 2023,
+        "value": 587120,
+        "tax": 7875
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.653853053392567,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 1.9889881549122237,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 3.476956810087316,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID68265433",
+    "mlsId": "MLS905927",
+    "streetAddress": "9718 Palm Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33381",
+    "latitude": "28.804862",
+    "longitude": "-80.980509",
+    "price": 820000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 3189,
+    "lotSize": 14971,
+    "yearBuilt": 2014,
+    "propertyType": "Townhouse",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 86,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 1 bathroom condo in Orlando. This stunning property features 3189 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Mike Davis",
+    "agentPhone": "(407) 555-0103",
+    "agentEmail": "mdavis@century21.com",
+    "brokerName": "Century 21",
+    "zestimate": 851956,
+    "rentZestimate": 4920,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 820000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 861000,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 697000,
+        "tax": 9840
+      },
+      {
+        "year": 2023,
+        "value": 672400,
+        "tax": 9020
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 0.81789406098371,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 9,
+        "distance": 3.925365603390626,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 3.740218362473037,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID89308323",
+    "mlsId": "MLS455885",
+    "streetAddress": "8264 Oak Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33668",
+    "latitude": "28.695292",
+    "longitude": "-80.969298",
+    "price": 739000,
+    "bedrooms": 5,
+    "bathrooms": 2.5,
+    "sqft": 3017,
+    "lotSize": 11382,
+    "yearBuilt": 1986,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 33,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 5 bedroom, 2.5 bathroom condo in Orlando. This stunning property features 3017 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "Sarah Johnson",
+    "agentPhone": "(407) 555-0102",
+    "agentEmail": "sarah.j@remax.com",
+    "brokerName": "RE/MAX",
+    "zestimate": 727955,
+    "rentZestimate": 4434,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 739000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 775950,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 628150,
+        "tax": 8868
+      },
+      {
+        "year": 2023,
+        "value": 605980,
+        "tax": 8128
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 8,
+        "distance": 1.2871469532949815,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 7,
+        "distance": 1.9287486550008193,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 8,
+        "distance": 2.1230768331908036,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID51332745",
+    "mlsId": "MLS639672",
+    "streetAddress": "9403 Beach Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "33348",
+    "latitude": "28.575126",
+    "longitude": "-80.924569",
+    "price": 393000,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "sqft": 2002,
+    "lotSize": 5798,
+    "yearBuilt": 2006,
+    "propertyType": "Condo",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 19,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 4 bedroom, 1 bathroom condo in Orlando. This stunning property features 2002 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for large families.",
+    "agentName": "John Smith",
+    "agentPhone": "(407) 555-0101",
+    "agentEmail": "john.smith@realty.com",
+    "brokerName": "Keller Williams",
+    "zestimate": 395841,
+    "rentZestimate": 2358,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 393000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 412650,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 334050,
+        "tax": 4716
+      },
+      {
+        "year": 2023,
+        "value": 322260,
+        "tax": 4323
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 1.2042847081514738,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 7,
+        "distance": 1.3708844243340608,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 7,
+        "distance": 2.7611186130568512,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  },
+  {
+    "propertyId": "ZPID8473678",
+    "mlsId": "MLS546467",
+    "streetAddress": "6173 Beach Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32764",
+    "latitude": "28.702000",
+    "longitude": "-81.202829",
+    "price": 729000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "sqft": 3264,
+    "lotSize": 7336,
+    "yearBuilt": 2016,
+    "propertyType": "Multi-Family",
+    "listingStatus": "FOR_SALE",
+    "daysOnMarket": 14,
+    "hoaFee": null,
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80"
+    ],
+    "thumbnailUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400&q=80",
+    "description": "Beautiful 2 bedroom, 1 bathroom single family in Orlando. This stunning property features 3264 sq ft of living space with modern amenities, updated kitchen, and spacious living areas. Great location close to schools, shopping, and entertainment. Move-in ready with excellent curb appeal. Perfect for first-time buyers or investors.",
+    "agentName": "Emily Brown",
+    "agentPhone": "(407) 555-0104",
+    "agentEmail": "ebrown@coldwell.com",
+    "brokerName": "Coldwell Banker",
+    "zestimate": 705583,
+    "rentZestimate": 4374,
+    "priceHistory": [
+      {
+        "date": "2024-11-01",
+        "price": 729000,
+        "event": "Listed for sale"
+      },
+      {
+        "date": "2024-10-15",
+        "price": 765450,
+        "event": "Price change"
+      }
+    ],
+    "taxHistory": [
+      {
+        "year": 2024,
+        "value": 619650,
+        "tax": 8748
+      },
+      {
+        "year": 2023,
+        "value": 597780,
+        "tax": 8018
+      }
+    ],
+    "schools": [
+      {
+        "name": "Orlando Elementary School",
+        "rating": 9,
+        "distance": 0.6286501495422865,
+        "grades": "K-5"
+      },
+      {
+        "name": "Orlando Middle School",
+        "rating": 8,
+        "distance": 2.843094979519881,
+        "grades": "6-8"
+      },
+      {
+        "name": "Orlando High School",
+        "rating": 9,
+        "distance": 4.02894638259669,
+        "grades": "9-12"
+      }
+    ],
+    "scrapedAt": "2025-11-27T23:26:32.735Z",
+    "dataSource": "sample-generator",
+    "isActive": true
+  }
+]
