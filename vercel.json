@@ -2,18 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/scrape.js",
+      "src": "api/scrape-v2.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "/api/scrape",
-      "dest": "/api/scrape.js"
+      "src": "/api/scrape-v2",
+      "dest": "/api/scrape-v2.js"
     }
-  ],
-  "env": {
-    "DATABASE_URL": "@database_url",
-    "RAPIDAPI_KEY": "@rapidapi_key"
-  }
+  ]
 }
