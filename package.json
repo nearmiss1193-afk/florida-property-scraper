@@ -1,0 +1,34 @@
+{
+  "name": "florida-property-scraper",
+  "version": "1.0.0",
+  "description": "Standalone real estate property scraper for Central Florida with Vercel deployment support",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scrape": "node index.js",
+    "test": "node test-scraper.js",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "real-estate",
+    "scraper",
+    "zillow",
+    "florida",
+    "property-data"
+  ],
+  "author": "Business Connector",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "mysql2": "^3.6.5",
+    "node-cron": "^3.0.3",
+    "puppeteer-core": "^21.6.0",
+    "chromium": "^3.0.3"
+  },
+  "devDependencies": {
+    "vercel": "^32.7.2"
+  }
+}
