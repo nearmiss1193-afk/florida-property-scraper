@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Florida Property Scraper API</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 800px;
+            width: 100%;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        .endpoint {
+            background: #f7fafc;
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        .endpoint h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        code {
+            background: #2d3748;
+            color: #68d391;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            display: inline-block;
+            margin: 5px 0;
+        }
+        .code-block {
+            background: #2d3748;
+            color: #68d391;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 10px 0;
+        }
+        .badge {
+            display: inline-block;
+            background: #48bb78;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85em;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 30px 0;
+        }
+        .feature {
+            background: #f7fafc;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .feature-icon {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏠 Florida Property Scraper API</h1>
+        <p class="subtitle">Real-time Central Florida property data generator</p>
+        
+        <div class="badge">✓ API Active</div>
+        
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">📍</div>
+                <strong>15 Cities</strong>
+                <p>Orlando, Tampa, Daytona Beach & more</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">🏡</div>
+                <strong>Full Details</strong>
+                <p>Price, beds, baths, images, agents</p>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">⚡</div>
+                <strong>Instant</strong>
+                <p>No API keys required</p>
+            </div>
+        </div>
+
+        <div class="endpoint">
+            <h3>Get Properties for One City</h3>
+            <div class="code-block">
+                GET /api/scrape-v2?city=Orlando&limit=50
+            </div>
+            <p><strong>Parameters:</strong></p>
+            <ul style="margin-left: 20px; margin-top: 10px;">
+                <li><code>city</code> - City name (Orlando, Tampa, etc.)</li>
+                <li><code>limit</code> - Number of properties (default: 10)</li>
+                <li><code>format</code> - Response format (json or csv)</li>
+            </ul>
+        </div>
+
+        <div class="endpoint">
+            <h3>Get All Cities</h3>
+            <div class="code-block">
+                GET /api/scrape-v2?all=true&limit=10
+            </div>
+            <p>Returns properties from all 15 Central Florida cities</p>
+        </div>
+
+        <div class="endpoint">
+            <h3>Download CSV</h3>
+            <div class="code-block">
+                GET /api/scrape-v2?city=Tampa&limit=100&format=csv
+            </div>
+            <p>Export data as CSV file for easy import</p>
+        </div>
+
+        <div style="margin-top: 40px; padding-top: 20px; border-top: 2px solid #e2e8f0; text-align: center;">
+            <p style="color: #666;">
+                <a href="https://github.com/nearmiss1193-afk/florida-property-scraper" target="_blank">📚 Documentation</a> · 
+                <a href="/api/scrape-v2?city=Orlando&limit=5" target="_blank">🧪 Try API</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
